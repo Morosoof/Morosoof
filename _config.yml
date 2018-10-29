@@ -5,8 +5,8 @@ author_name:        "Morosoof" # change this to your name
 logo_url:           https://avatars0.githubusercontent.com/u/44555142?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://morosoof.github.io/Morosoof/ # main url
-baseurl:            /the-plain
+url:                https://morosoof.github.io/ # main url
+baseurl:            /Morosoof
 permalink:          /:title # Post permalink
 timezone:           Europe/Amsterdam # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
