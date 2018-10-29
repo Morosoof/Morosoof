@@ -1,5 +1,5 @@
 ---
-title: Blogpost NZD
+title: Blogpost NZD | To the North!
 updated: 2018-10-29 15:56
 ---
 
